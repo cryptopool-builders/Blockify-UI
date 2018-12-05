@@ -1,4 +1,4 @@
-# miningcore-ui
+# Blockify-UI
 UI designed for [Miningcore](https://github.com/coinfoundry/miningcore)
 
 ** Note: This is beta release, so you will need to test it on your server. **
