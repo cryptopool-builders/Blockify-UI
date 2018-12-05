@@ -16,16 +16,6 @@ Thanks to Creative Tim to create this beautiful theme that this UI based on: [Pa
 
 If you like to donate me a cup of coffee for all these custoization works,
 
-BTC: `1MTkPFtp3qxE4Y98pTHP3z767RGKmrT92a`
+BTC: `1K1ppxQJmRcqeg1Yw3k9TbokM44HwVQ2pZ`
 
-ETH: `0x5896a85E8c175c563DC00087535582394d394838`
-
-XMR: `4ASikgNhKqmY5EjnaoDws1jjyhQy9ZrcDcCwfYVt5Rtxb6B1FqsehpLY8ZxxZD5B6r8QZKb4y1FKW1eqiS5Lph77Ca9qprU`
-
-ETC: `0xFaBA3be3b3De5469C3F6C6185150928F3773C7b4`
-
-ZEC: `t1Z5Kc75JQ17txyaDUfwwyabTgsJMfuuSp4`
-
-ZEN: `znh1Wba6kRUQ9TLFWP4SHyKXdsHVdt2fqSw`
-
-ETN: `etnk58m3iUDNkciPQcjQ7S9oUVyZKHaScfYxb4gx2bvdYP9Uu1uFyVoFJxSWHD8gkwYobpuDfYaHCDryWWV91dWM8TpGTgo74V`
+ETH: `0xdbf787d5a41825395e9a3aece989cf79fe028cb1`
